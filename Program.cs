@@ -6,8 +6,8 @@ namespace Herencia
         static void Main(string[] args)
         {
             People person = new People();
-            person.Name = "Nelson";
-            person.LastName = "Perez";
+            person.Name = "Nelson Tobias";
+            person.LastName = "Perez Zarate";
             person.Id = 80879413;
 
             Client cliente = new Client();
