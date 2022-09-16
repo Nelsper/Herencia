@@ -1,0 +1,5 @@
+D:\PROGRAMACIÓN_MINTIC_UCALDAS\Programación\Desarrollo_de_Software\MinTic\Grup_G44\Herencia\obj\Debug\net6.0\Herencia.csproj.AssemblyReference.cache
+D:\PROGRAMACIÓN_MINTIC_UCALDAS\Programación\Desarrollo_de_Software\MinTic\Grup_G44\Herencia\obj\Debug\net6.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACIÓN_MINTIC_UCALDAS\Programación\Desarrollo_de_Software\MinTic\Grup_G44\Herencia\obj\Debug\net6.0\Herencia.AssemblyInfoInputs.cache
+D:\PROGRAMACIÓN_MINTIC_UCALDAS\Programación\Desarrollo_de_Software\MinTic\Grup_G44\Herencia\obj\Debug\net6.0\Herencia.AssemblyInfo.cs
+D:\PROGRAMACIÓN_MINTIC_UCALDAS\Programación\Desarrollo_de_Software\MinTic\Grup_G44\Herencia\obj\Debug\net6.0\Herencia.csproj.CoreCompileInputs.cache
